@@ -1,36 +1,29 @@
 # student-1155107776
-Basic information
 
-Name: GE Jianhui Jerome
+## Basic information
+**Name**: GE Jianhui Jerome  
+**SID**: 1155107776  
+**College**: WYS College  
+**Github experience**: new  
 
-SID: 1155107776
+## Skills
+* C
+* Java
+* Python(Learning)
 
-College: WYS College
+## Course Taking
+|      |      |
+|------|------|
+| ENGG | 2430 |
+| CSCI | 3150 |
+| CSCI | 2100 |
 
-Github experience: new
+## Task List
+- [x] Project Milestone 1
+- [x] Project Milestone 2
+- [x] Project Milestone 3
 
----------------------
-
-Skills
- 
- C
- 
- Java
- 
- Python(Learning)
- 
- ---------------------
- 
-Course Taking
-
-ENGG 2430	
-
-CSCI 3150	
-
-CSCI 2100	
-
-----------------------
-
-Working Experience
-
+## Working Experience
 None
+
+![screenshot](screenshot.png)
